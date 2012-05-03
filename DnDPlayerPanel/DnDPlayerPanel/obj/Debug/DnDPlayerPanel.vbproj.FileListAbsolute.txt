@@ -1,0 +1,10 @@
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\bin\Debug\DnDPlayerPanel.exe
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\bin\Debug\DnDPlayerPanel.pdb
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\bin\Debug\DnDPlayerPanel.xml
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\DnDPlayerPanel.vbproj.GenerateResource.Cache
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\DnDPlayerPanel.exe
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\DnDPlayerPanel.xml
+C:\Users\Jack\Documents\Visual Studio 2008\Projects\DnDPlayerPanel\DnDPlayerPanel\obj\Debug\DnDPlayerPanel.pdb
