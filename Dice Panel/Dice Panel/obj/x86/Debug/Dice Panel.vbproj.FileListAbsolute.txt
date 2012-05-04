@@ -1,0 +1,11 @@
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\bin\Debug\Dice Panel.exe
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\bin\Debug\Dice Panel.pdb
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\bin\Debug\Dice Panel.xml
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\WindowsApplication1.DicePanel.resources
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\Dice Panel.exe
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\Dice Panel.xml
+C:\Users\Jack\Documents\Visual Studio 2010\Projects\Dice Panel\Dice Panel\obj\x86\Debug\Dice Panel.pdb
